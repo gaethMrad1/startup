@@ -1,0 +1,5 @@
+export const data = [
+    {imageOneUrl: "/images/blog/blog-01.jpg", title: "Best UI components for modern websites", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.", imageTwoUrl: "/images/blog/author-01.png", name: "By Samuyl Joshi", job: "Graphic Designer"},
+    {imageOneUrl: "/images/blog/blog-02.jpg", title: "9 simple ways to improve your design skills", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.", imageTwoUrl: "/images/blog/author-02.png", name: "By Musharof Chy", job: "Content Writer"},
+    {imageOneUrl: "/images/blog/blog-03.jpg", title: "Tips to quickly improve your coding speed.", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.", imageTwoUrl: "/images/blog/author-03.png", name: "By Lethium Deo", job: "Graphic Designer"},
+]
